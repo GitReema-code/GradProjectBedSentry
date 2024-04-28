@@ -1,7 +1,7 @@
 # BedSentry - IoT-Based Emergency Room Patient Tracking
 
-NewLogo.png
-
+[Project's logo
+](https://github.com/GitReema-code/GradProjectBedSentry/blob/main/assets/images/NewLogo.png)
 ## Overview
 
 **BedSentry** is an innovative Internet of Things (IoT) solution designed to optimize Emergency Room (ER) efficiency by automating patient entry and exit tracking. By leveraging strategically placed sensors and real-time data collection, BedSentry estimates patient stay duration, streamlines patient flow management, and enhances decision-making for healthcare providers.
