@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "760794258698",
+    "project_id": "bedsentry-6c705",
+    "storage_bucket": "bedsentry-6c705.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760794258698:android:478b73103beb9d0f34eef3",
+        "android_client_info": {
+          "package_name": "com.mycompany.bedsentry"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhnA-vAnO_OTMLMiLSjxLmB_KsvckOPpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
